@@ -1,1 +1,2 @@
 This file will be added to branch feature-1
+Simona asked to add more text
